@@ -18,7 +18,9 @@ Notes:
 * The majority of this workbook was made together with Ricardo Varela. Our communication channel was always Slack, and we had our phone calls on that App for transparency with the University, in case you want to verify it.
 * I still have difficulties with my cloned git for this assigment. It was always showing as master. After speaking to the instructor, it was advised to create a new one. However, I tried to push my work into the new one and I am still facing some issues that I will solve before the deadline. This is the reason why you won't be able to see my progress in git hub. This is another item to get better at, still not fully competent using Github.
 
-Thank you for reviewing my assignemnt.
+Links used:
+variance function in python: https://www.educative.io/answers/what-is-the-var-function-in-python
+rotation of x labels using pyplot method: https://www.pythoncharts.com/matplotlib/rotating-axis-labels/
 
 Laura
  
