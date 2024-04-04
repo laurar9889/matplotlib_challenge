@@ -16,6 +16,11 @@ Treatment is the same as drug, drug regimen, medicament. Whenever you see these 
 Notes:
 * Since I still struggle with the loops, I asked Krishna to explain it to me. We did the outliers calculation together. However, my script is not working correctly. I did 4 separate dataframes to calculate mean, median, variance, standard deviation and SEM. After that, I realized that I could not merge them all with the cleaned_data_df so I tried to do the loop on the 4 drugs only, and store the tumor volume in a variable but it is not working for me. ****Therefore, you will notice the Boxplot missing in my assignment.****
 * The majority of this workbook was made together with Ricardo Varela. Our communication channel was always Slack, and we had our phone calls on that App for transparency with the University, in case you want to verify it.
+* I still have difficulties with my cloned git for this assigment. It was always showing as master. After speaking to the instructor, it was advised to create a new one. However, I tried to push my work into the new one and I am still facing some issues that I will solve before the deadline. This is the reason why you won't be able to see my progress in git hub. This is another item to get better at, still not fully competent using Github.
+
+Thank you for reviewing my assignemnt.
+
+Laura
  
 
 
